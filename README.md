@@ -12,7 +12,7 @@ Everything is read-only. Access follows the same rules as the Laravel Auditor da
 the `Auditor::auth()` callback, otherwise the `viewAuditor` gate, otherwise the local
 environment only.
 
-Requires PHP 8.3+, Laravel 12 or 13, Filament 5 and Laravel Auditor 3.
+Requires PHP 8.3+, Laravel 12 or 13, Filament 5.9+ and Laravel Auditor 3.
 
 ## Installation
 
