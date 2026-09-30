@@ -5,6 +5,8 @@ All notable changes to this project are documented in this file, following
 
 ## [Unreleased]
 
+## [1.0.0-beta.1] - 2026-09-30
+
 ### Added
 - `AuditorPlugin` for Filament 5 panels.
 - Read-only Audit entries and Model changes resources with filters and diff view.
